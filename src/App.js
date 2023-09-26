@@ -92,7 +92,6 @@ const App = () => {
 
 	return (
 		<div className="App">
-			{console.log('notes', notes)}
 			<header className="App-header">
 				<img src={logo} className="App-logo" alt="logo" />
 				{/* <Hello name={'George Lucas'}/>
@@ -102,7 +101,7 @@ const App = () => {
 				{/* <Hello name={'Adam Driver'} age={39} /> */}
 				{/* <Counter /> */}
 				<div>
-					<h1>Notes</h1>
+					<h1>Notes {':)'}</h1>
 					<ul>
 						<Notes
 							notes={notes}

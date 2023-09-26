@@ -1,5 +1,7 @@
 import axios from 'axios';
-const baseUrl = 'http://localhost:3001/notes';
+// const baseUrl = 'http://localhost:3001/api/notes';
+// const baseUrl = 'https://amargopastor-simple-react-api-0fe8dd8f1832.herokuapp.com/api/notes';
+const baseUrl = 'api/notes';
 
 const getAll = () => {
 	return axios.get(baseUrl);
