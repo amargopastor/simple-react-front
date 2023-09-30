@@ -1,9 +1,13 @@
-# simple-react
+# simple-react-front {
 
 <img
   width="200"
   src="./public/img/simple_rick.webp"
 />
+
+- 🚀 [Go to API](https://github.com/amargopastor/simple-react-api)
+- 🚀 [Go to Web](https://amargopastor-simple-react-api-0fe8dd8f1832.herokuapp.com/)
+- 🚀 [Go to Course](https://fullstackopen.com/es/)
 
 # Getting Started with Create React App
 
@@ -75,3 +79,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Honorable mentions
+
+- 🍍
+
+**[⬆ back to top](#simple-react-front)**
